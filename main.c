@@ -29,9 +29,6 @@ void printdir(char *dir, int depth) {
  closedir(dp);
 }
 
-kopa
-
-
 
 int main(int argc, char* argv[]) {
  char *topdir = "jjj/";
