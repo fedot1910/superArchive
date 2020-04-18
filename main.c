@@ -32,6 +32,7 @@ void printdir(char *dir, int depth) {
 
 
 
+
 int main(int argc, char* argv[]) {
  char *topdir = "jjj/";
  if (argc >= 2) topdir = argv[1];
